@@ -34,6 +34,6 @@ Sonor AQ2 Brown Fade
 
 ### Cymbals & Stuff
 - 16" Istanbul Agop Xist Brilliant Crash
-- 20" Instabul Agop Xist Brilliant Ride
-- 14" Instabul Agop Xist Brilliant Hi-Hat
+- 20" Istanbul Agop Xist Brilliant Ride
+- 14" Istanbul Agop Xist Brilliant Hi-Hat
 - Meinl Mike Johnston Groove Bell
