@@ -14,7 +14,10 @@ I speak English and German.
 ![Victoriametrics](https://img.shields.io/badge/VictoriaMetrics-621773.svg?style=for-the-badge&logo=VictoriaMetrics&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800.svg?style=for-the-badge&logo=Grafana&logoColor=white) ![Opensearch](https://img.shields.io/badge/OpenSearch-005EB8.svg?style=for-the-badge&logo=OpenSearch&logoColor=white) ![Sentry](https://img.shields.io/badge/Sentry-362D59.svg?style=for-the-badge&logo=Sentry&logoColor=white)
 
 ### Workstation
-![Framework](https://img.shields.io/badge/Framework-000000.svg?style=for-the-badge&logo=Framework&logoColor=white) ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1.svg?style=for-the-badge&logo=Arch-Linux&logoColor=white) ![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF.svg?style=for-the-badge&logo=Hyprland&logoColor=black)
+![Framework](https://img.shields.io/badge/Framework-000000.svg?style=for-the-badge&logo=Framework&logoColor=white) ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1.svg?style=for-the-badge&logo=Arch-Linux&logoColor=white) ![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF.svg?style=for-the-badge&logo=Hyprland&logoColor=black) ![Fish Shell](https://img.shields.io/badge/fish%20shell-34C534.svg?style=for-the-badge&logo=fish-shell&logoColor=white)
+
+### Languages
+![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=Go&logoColor=white) ![Ruby](https://img.shields.io/badge/Ruby-CC342D.svg?style=for-the-badge&logo=Ruby&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 
 # Drums
 
