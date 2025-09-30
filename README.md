@@ -10,6 +10,9 @@ I speak English and German.
 ### Infrastructure
 ![Debian](https://img.shields.io/badge/Debian-A81D33.svg?style=for-the-badge&logo=Debian&logoColor=white) ![Proxmox](https://img.shields.io/badge/Proxmox-E57000.svg?style=for-the-badge&logo=Proxmox&logoColor=white) ![QEMU](https://img.shields.io/badge/QEMU-FF6600.svg?style=for-the-badge&logo=QEMU&logoColor=white)
 
+### Networking
+![Juniper](https://img.shields.io/badge/Juniper%20Networks-84B135.svg?style=for-the-badge&logo=Juniper-Networks&logoColor=white) ![Palo Alto](https://img.shields.io/badge/Palo%20Alto%20Networks-F04E23.svg?style=for-the-badge&logo=Palo-Alto-Networks&logoColor=white)
+
 ### Monitoring
 ![Victoriametrics](https://img.shields.io/badge/VictoriaMetrics-621773.svg?style=for-the-badge&logo=VictoriaMetrics&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800.svg?style=for-the-badge&logo=Grafana&logoColor=white) ![Opensearch](https://img.shields.io/badge/OpenSearch-005EB8.svg?style=for-the-badge&logo=OpenSearch&logoColor=white) ![Sentry](https://img.shields.io/badge/Sentry-362D59.svg?style=for-the-badge&logo=Sentry&logoColor=white)
 
