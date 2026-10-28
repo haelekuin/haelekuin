@@ -33,7 +33,7 @@ Sonor AQ2 Brown Fade
 - 14" x 06" Snare drum
 
 ### Hardware
-- DW900 Single Pedal
+- DW9000 Single Pedal
 - Tama Iron Cobra HH905D Hi-Hat Stand
 - Gibraltar 6709 Cymbal Stand
 - Tama HT430BC Drum Throne
