@@ -33,7 +33,7 @@ Sonor AQ2 Brown Fade
 - 14" x 06" Snare drum
 
 ### Hardware
-- Tama Iron Cobra 900 Double Pedal
+- DW900 Single Pedal
 - Tama Iron Cobra HH905D Hi-Hat Stand
 - Gibraltar 6709 Cymbal Stand
 - Tama HT430BC Drum Throne
@@ -41,6 +41,6 @@ Sonor AQ2 Brown Fade
 ### Cymbals & Stuff
 - 16" Istanbul Agop Xist Brilliant Crash
 - 17" Agean Jazz Crash
-- 20" Istanbul Agop Xist Brilliant Ride
+- 21" Paiste Signature Dark Energy Ride Mark II
 - 14" Istanbul Agop Xist Brilliant Hi-Hat
 - Meinl Mike Johnston Groove Bell
